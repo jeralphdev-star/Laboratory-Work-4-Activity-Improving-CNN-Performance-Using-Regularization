@@ -1,7 +1,7 @@
 # Laboratory-Work-4-Activity-Improving-CNN-Performance-Using-Regularization
 
 ## Google Colab Link: https://colab.research.google.com/drive/1KdYW12j_E1FJUR97rfISihkuKKEIlN64?usp=sharing
-
+Model Link: https://drive.google.com/drive/folders/1IoJBMaHoNBhhaIUwI2K-PLa_it66cj2u?usp=drive_link
 # GUIDE QUESTIONS (Student Explanation & Reflection)
 
 ## A. Model Evaluation Analysis
