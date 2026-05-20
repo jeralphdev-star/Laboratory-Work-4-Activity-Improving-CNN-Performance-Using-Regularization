@@ -3,7 +3,7 @@
 ## Google Colab Link: https://colab.research.google.com/drive/1KdYW12j_E1FJUR97rfISihkuKKEIlN64?usp=sharing
 
 the model that load:  https://drive.google.com/drive/folders/1aEcz8betJWEE1dbamns0gTveOKz8Ktmg?usp=sharing
-
+improved model: https://drive.google.com/drive/folders/1T6EL9KmkGANpjdvit3hT_DUMfCPq3Q0i?usp=drive_link
 
 # GUIDE QUESTIONS (Student Explanation & Reflection)
 
