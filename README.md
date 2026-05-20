@@ -4,7 +4,7 @@
 
 the model that load:  https://drive.google.com/drive/folders/1aEcz8betJWEE1dbamns0gTveOKz8Ktmg?usp=sharing
 
-Model Link: https://drive.google.com/drive/folders/1IoJBMaHoNBhhaIUwI2K-PLa_it66cj2u?usp=drive_link
+
 # GUIDE QUESTIONS (Student Explanation & Reflection)
 
 ## A. Model Evaluation Analysis
